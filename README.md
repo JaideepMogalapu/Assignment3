@@ -1,7 +1,7 @@
 # Assignment3
 Machine Learning Assignment 3
 # Video Link : 
-https://drive.google.com/drive/folders/1e_ZKv8C5lChsuvw4G3wA-rF1ydfCvgjl?usp=share_link
+https://drive.google.com/drive/folders/1K8D8JAIg4bi7dxruvSXXnnMKY0nzu16o?usp=share_link
 # Author Name : 
 Mogalapu Gideon Jaideep Sudarshan
 # Course and CRN    : 
